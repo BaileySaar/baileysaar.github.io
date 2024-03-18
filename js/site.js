@@ -21,3 +21,5 @@ else if (isEvening == true)
     document.querySelector('welcome')
     welcome.textContent = "Good Evening!"
 }
+
+localStorage.setItem('It\'s a secret to everybody.', 'Seeds bear new life when flowers dare to fade')
